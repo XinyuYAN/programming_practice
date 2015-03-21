@@ -1,0 +1,11 @@
+﻿生成启动时间为 2015/3/20 9:48:09。
+     1>项目“E:\学习\大三下\高程\d6章作业\d6章作业\d6章作业.vcxproj”在节点 2 上(ClCompile 个目标)。
+     1>ClCompile:
+         D:\Program Files\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\d6章作业.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt d6_17.cpp
+         d6_17.cpp
+     1>e:\学习\大三下\高程\d6章作业\d6章作业\d6_17.cpp(32): fatal error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "StdAfx.h"”?
+     1>已完成生成项目“E:\学习\大三下\高程\d6章作业\d6章作业\d6章作业.vcxproj”(ClCompile 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:00.18
